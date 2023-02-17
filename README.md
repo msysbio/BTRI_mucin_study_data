@@ -1,4 +1,4 @@
-# Processed data for "Starvation response strategies of human gut bacteria Bacteroides thetaiotaomicron and Roseburia intestinalis and their impact on co-culture dynamics"
+# Processed data for "Starvation response strategies impact the interaction dynamics of human gut bacteria: a study of Bacteroides thetaiotaomicron and Roseburia intestinalis"
 
 Here we deposit the processed RNA-seq, flow cytometry and fermentation data of exploring the impact of nutrient scarcity on the interaction dynamics of two common human gut bacteria, Bacteroides thetaiotaomicron (BT) and Roseburia intestinalis (RI).
 
