@@ -8,4 +8,4 @@ The analysis of the raw sequencing reads was performed as follows: low quality r
 
 Fermentation data were obtained from 120ml serum bottles and microtiter plates, as described in details in the manuscript (preprint): https://www.biorxiv.org/content/10.1101/2023.02.02.526806v1
 
-Now published in ISMEE: https://www.nature.com/articles/s41396-023-01501-1
+Now published in ISME: https://www.nature.com/articles/s41396-023-01501-1
